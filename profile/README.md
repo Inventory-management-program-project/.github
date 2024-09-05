@@ -10,7 +10,7 @@
 
 저희는 사용자 중심의 직관적이고 심플한 인터페이스를 제공하여 누구나 쉽게 사용할 수 있는 프로그램을 목표로 하였습니다. 또한, 효율성 높은 프로세스를 바탕으로 매장의 유통 관리에 기여하는 시스템을 개발하게 되었습니다.
 
-<br>
+
 ## 📦 프로젝트 설명
 - **회원가입/로그인/회원정보수정**
 - **재고 추가/삭제/수정**
@@ -21,11 +21,10 @@
 - **재고 유통기한 관리**
 - **재고 내역서출력**
 
-<br>
+
 ## 🗓️ 개발일정
 2024.07.10 ~ 2024.08.29 (7주)
 
-<br>
 ## 🚀 기술 스택
 
 ### Frontend
@@ -73,15 +72,15 @@
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-<br>
+
 ## 💾 ERD
 ![image](https://github.com/user-attachments/assets/0c34da11-6418-4b5a-b0bf-354a81583d12)
 
-<br>
+
 ## 🔁 다이어그램
 ![image](https://github.com/user-attachments/assets/beba4796-7699-4aaa-9c9b-d5fce0eb9f9b)
 
-<br>
+
 ## 📝 백로그
 ![image](https://github.com/user-attachments/assets/87a668cd-e931-434a-ada7-6bd86df961e1)
 
