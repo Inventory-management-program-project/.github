@@ -25,14 +25,13 @@
 2024.07.10 ~ 2024.08.29 (7주)
 
 ## 💾 ERD
-![image](https://github.com/user-attachments/assets/e40c587b-9ffb-45fa-88e6-b9984d166701)
+![image](https://github.com/user-attachments/assets/0c34da11-6418-4b5a-b0bf-354a81583d12)
 
 ## 🔁 다이어그램
-![image](https://github.com/user-attachments/assets/110e13f9-1e1e-4445-a89b-6a88b9137534)
+![image](https://github.com/user-attachments/assets/beba4796-7699-4aaa-9c9b-d5fce0eb9f9b)
 
 ## 📝 백로그
-![image](https://github.com/user-attachments/assets/7d007b90-e360-45c3-b9f6-a3bd26dc8a39)
-
+![image](https://github.com/user-attachments/assets/87a668cd-e931-434a-ada7-6bd86df961e1)
 
 ---
 
