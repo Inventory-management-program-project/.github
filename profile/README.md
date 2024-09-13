@@ -78,7 +78,7 @@
 
 
 ## 💾 ERD
-![image](https://github.com/user-attachments/assets/0c34da11-6418-4b5a-b0bf-354a81583d12)
+![image](https://github.com/user-attachments/assets/11533daf-129d-481e-bf03-dcf0600376ea)
 
 
 ## 🔁 다이어그램
